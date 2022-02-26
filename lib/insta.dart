@@ -12,6 +12,7 @@ class Insta {
     required this.comments,
   });
 }
+
 class Comments{
   final String user;
   final String comment;
